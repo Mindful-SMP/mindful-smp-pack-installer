@@ -1,0 +1,2 @@
+# mindful-smp-pack-installer
+ 
